@@ -1,0 +1,26 @@
+{
+  "name":"Chan Team",
+  "available": 10,
+  "members": [
+    {
+      "name": "aunt",
+      "email": "aung@gmail.com",
+      "status": "active"
+    },
+    {
+      "name": "suss",
+      "email": "suss@gmail.com",
+      "status": "active"
+    },
+    {
+      "name": "dane",
+      "email": "dane@gmail.com",
+      "status": "active"
+    },
+    {
+      "name": "json",
+      "email": "jhon@gmail.com",
+      "status": "active"
+    }
+  ]
+}
