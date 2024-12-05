@@ -26,6 +26,10 @@
             <li>
               <router-link class="text-gray-500 transition hover:text-gray-500/75" to="/teamDashboard">TeamDashboard</router-link>
             </li>
+
+            <li>
+              <router-link class="text-gray-500 transition hover:text-gray-500/75" to="/products">Products</router-link>
+            </li>
           </ul>
         </nav>
 
